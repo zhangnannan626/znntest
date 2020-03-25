@@ -28,7 +28,7 @@ public class MathUtilsTest {
 		return Arrays.asList(new Object[][] { 
 			{ 1, 1, 2 }, 
 			{ 2, 2, 4 }, 
-			{ 8, 2, 11 }, 
+			{ 8, 2, 10 }, 
 			{ 4, 5, 9 } 
 		});
 	}
