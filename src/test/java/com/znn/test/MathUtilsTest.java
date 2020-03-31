@@ -27,9 +27,9 @@ public class MathUtilsTest {
 	public static Iterable<Object[]> data1() {
 		return Arrays.asList(new Object[][] { 
 			{ 1, 1, 2 }, 
-			{ 2, 2, 6 }, 
+			{ 2, 2, 4 }, 
 			{ 8, 2, 10 }, 
-			{ 4, 5, 11 } 
+			{ 4, 5, 9 } 
 		});
 	}
 
