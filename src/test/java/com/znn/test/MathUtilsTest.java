@@ -36,6 +36,8 @@ public class MathUtilsTest {
 	@Test
 	public void test_add() {	
 		assertEquals(expected,MathUtils.add(numberA, numberB));
+		assertEquals(5, 6);
+	
 	}
 
 }
