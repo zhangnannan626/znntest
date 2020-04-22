@@ -35,8 +35,8 @@ public class MathUtilsTest {
 
 	@Test
 	public void test_add() {	
-		assertEquals("等程序判断",expected,MathUtils.add(numberA, numberB));
-		assertEquals("绝对不相等",5, 6);
+		assertEquals("绋嬪簭鍒ゆ柇鏄惁鐩哥瓑",expected,MathUtils.add(numberA, numberB));
+		assertEquals("缁濆鐩哥瓑",5, 6);
 	
 	}
 
